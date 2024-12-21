@@ -9,6 +9,9 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
+   background-color: #ffffff;
+   
+   width: 100%;
 }
 
 nav {
@@ -436,6 +439,11 @@ width: 420px;
 padding: 5px;
 
 }
+.blog:hover{
+  margin-bottom: 50px;
+  background-color: rgb(198, 210, 198);
+  box-shadow: 0 0 10px 0 #664827;
+}
 .blog img{
   margin-top: 10px;
  
@@ -602,4 +610,8 @@ line-height: 33px;
 .real-footer p{
   padding: 28px;
 }
- 
+.b24:hover{
+  margin-bottom: 50px;
+  
+  box-shadow: 0 0 10px 0 #664827;
+}
